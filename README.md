@@ -1,0 +1,1 @@
+I've created a ajax file which offers to update parts of the page without a full page refresh. This assignment took about 15 minutes.
